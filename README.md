@@ -3,4 +3,4 @@
 
 [DEMO LINK](https://morozoleh.github.io/museum-2/)
 
-Made by using BEM methodology and SCSS preprocessor
+Made by using BEM methodology, JavaScript and SCSS preprocessor
